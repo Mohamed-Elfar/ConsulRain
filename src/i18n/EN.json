@@ -1,0 +1,519 @@
+{
+  "header": {
+    "title": "Learning That Works, Employment That Fits",
+    "learning": "Learning",
+    "forLearners": "For Learners",
+    "embeddedSystems": "Embedded Systems",
+    "softwareTesting": "Software Testing",
+    "mobileDevelopment": "Mobile Development",
+    "webDevelopment": "Web Development",
+    "cloudDevops": "Cloud DevOps",
+    "aiDataScience": "AI & Data Science",
+    "cybersecurity": "Cybersecurity"
+  },
+  "navbar": {
+    "home": "Home",
+    "learning": "Learning",
+    "hireGraduates": "Hire Our Graduates",
+    "partnership": "Sprints X Microsoft",
+    "login": "Login",
+    "joinUs": "Join Us",
+    "about": "About us",
+    "contact": "Contact Us",
+    "training": "Training",
+    "ourServices": "Our Services",
+    "consultation": "Consultation",
+    "feasibilityStudies": "Feasibility Studies"
+  },
+  "home": {
+    "pageTitle": "Welcome to the Home Page"
+  },
+  "empower": {
+    "title": "WHO WE",
+    "highlightedWord": "EMPOWER?",
+    "corporates": {
+      "title": "Corporates & Enterprises",
+      "description": "We collaborate with large organizations to enhance operational excellence, develop talent capabilities, and navigate transformation through bespoke training programs and strategic consultancy.",
+      "buttonText": "Learn More"
+    },
+    "smes": {
+      "title": "SMEs & Family Businesses",
+      "description": "We empower small and mid-sized enterprises to build resilient foundations, streamline operations, and scale confidently, through tailored solutions.",
+      "buttonText": "Explore Solutions"
+    },
+    "government": {
+      "title": "Government & Public Sector",
+      "description": "Partnering with government entities and public institutions, we support the development of human capital, drive performance, and implement forward-looking strategies for sustainable organizational growth.",
+      "buttonText": "Partner With Us"
+    },
+    "industry": {
+      "title": "Industry Leaders & Manufacturing Sectors",
+      "description": "From production to logistics, quality, and supply chain, our technical training and advisory services enable manufacturing departments to optimize performance and uphold the highest industry standards.",
+      "buttonText": "Optimize Now"
+    }
+  },
+  "contact": {
+    "header": "Contact Us",
+    "formTitle": "Contact us",
+    "formSubtitle": "Reach out to us for any inquiry",
+    "namePlaceholder": "Full name",
+    "emailPlaceholder": "Your email",
+    "messagePlaceholder": "Message",
+    "submitButton": "Send Message",
+    "successMessage": "Your message has been sent successfully!",
+    "successTitle": "Message Sent!",
+    "submitting": "Submitting...",
+    "errorMessageTitle": "Error",
+    "errorMessageText": "Something went wrong. Please try again later.",
+    "locationEgypt": "Egypt Office:",
+    "locationEgyptValue": "West 11 Mall - 6th October Giza-Egypt",
+    "locationAlgeria": "Algeria Location:",
+    "locationAlgeriaValue": "Cite 500 Apartment - Bilda -Algeria",
+    "email": "Email:",
+    "emailValue": "info@consulrain.com",
+    "phone": "Phone:",
+    "phoneValue": "+20 155 620 5466",
+    "clickToShowOtherLocation": "Click to show other location"
+  },
+  "stats": {
+    "satisfiedUsers": "Satisfied Users",
+    "learningHours": "Learning Hours",
+    "employmentRate": "Employment Rate",
+    "impactedCountries": "Impacted Countries",
+    "sectionTitle": "Our Impact in Numbers"
+  },
+  "login": {
+    "title": "Log in to your account",
+    "google": "Google",
+    "github": "Github",
+    "linkedin": "LinkedIn",
+    "or": "or",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "forgotPassword": "Forgot your password?",
+    "noAccount": "Don't have an account?",
+    "joinUs": "Join Us",
+    "close": "Close"
+  },
+  "register": {
+    "title": "Join Us",
+    "errorTitle": "Oops...",
+    "successTitle": "Success!",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "agreeToTerms": "I agree to the",
+    "termsAndConditions": "terms and conditions",
+    "joinUsButton": "Join Us",
+    "submitting": "Submitting...",
+    "phone": "Phone",
+    "name": "Name",
+    "namePlaceholder": "Enter your full name",
+    "phonePlaceholder": "Enter your phone number",
+    "close": "Close",
+    "agreeToTermsError": "Please agree to the terms and conditions",
+    "successMessage": "Registration sent successfully!",
+    "errorMessage": "Failed to send registration. Please try again."
+  },
+  "privacyPolicy": {
+    "privacyPolicy": "Privacy Policy",
+    "title": "Privacy Policy & Intellectual Property Notice",
+    "policy": "Privacy Policy",
+    "intro": "At ConsulRain Company, we are committed to safeguarding the privacy of our website visitors and clients. This policy outlines our practices regarding the collection, utilization, and protection of your personal information.",
+    "infoCollection": "Information Collection",
+    "infoCollectionDesc": "We may collect personal data, including your name and email address, when you interact with our website. This information is primarily utilized to enhance the user experience, respond to inquiries, and optimize our services.",
+    "dataUtilization": "Data Utilization",
+    "dataUtilizationDesc": "Your personal information will not be disseminated, shared, or disclosed to third parties except in accordance with legal requirements or with your explicit consent.",
+    "cookies": "Cookies",
+    "cookiesDesc": "Our website may employ cookies to enhance functionality and user experience. If you prefer not to share this data, you may disable cookies through your browser settings.",
+    "dataSecurity": "Data Security",
+    "dataSecurityDesc": "We implement industry-standard security protocols to safeguard your information from unauthorized access, modification, or disclosure.",
+    "ipNotice": "Intellectual Property Notice",
+    "ipNoticeDesc": "All content on this website, including text, graphics, logos, icons, images, and design elements, is the exclusive property of ConsulRain Company. This content is protected under applicable copyright, trademark, and intellectual property laws.",
+    "prohibitedUse": "Prohibited Use",
+    "prohibitedUseList": [
+      "You are strictly prohibited from copying, quoting, reproducing, distributing, or using any part of this website’s content, logo, or branding materials without prior written authorization from ConsulRain Company.",
+      "Unauthorized use of our intellectual property may result in legal action."
+    ],
+    "requestPermission": "Request for Permission",
+    "requestPermissionDesc": "To request permission for use of any content or branding, please contact us at:",
+    "legalDisclaimer": "Legal Disclaimer",
+    "legalDisclaimerDesc": "By accessing this website, you acknowledge and agree to comply with all terms and conditions outlined in this policy. ConsulRain Company retains the authority to update or modify this policy at any time, without prior notice.",
+    "email": "info@consulrain.com",
+    "phone": "+20 155 620 5466"
+  },
+  "footer": {
+    "contactUs": "Contact Us",
+    "company": {
+      "Company": "Company"
+    },
+    "ourServices": {
+      "Our Services": "Our Services"
+    },
+    "training": {
+      "Training": "Training"
+    },
+    "ConsulRainCo": "ConsulRain Co",
+    "brandDescription": "Empowering organizations and individuals with innovative training, expert consultation, and actionable feasibility studies to drive success and growth."
+  },
+  "partners": {
+    "title": "Our Partners",
+    "description": "Over the years, we have proudly partnered with leading organizations across sectors, helping them reach their full potential, transform complexity into clarity, and achieve measurable, lasting impact."
+  },
+  "founders": {
+    "title": "Meet The Founders",
+    "founder1": {
+      "name": "Hussein Afifi",
+      "bio": "With many years of distinguished experience in consulting, training, and auditing, Mr. Hussein brings unparalleled expertise in a wide spectrum of management systems, from quality and food safety to business continuity, risk management, compliance, governance, and medical devices.  He has led initiatives in strategic planning, operational excellence, and process optimization across diverse sectors. His thoughtful approach and deep understanding of organizational dynamics have positioned him as a trusted partner to over 1,000 organizations, spanning government entities, private enterprises, and leading organizations across the region. Mr. Hussein's legacy is defined by precision, impact, and a lasting commitment to empowering organizations to thrive with confidence"
+    },
+    "founder2": {
+      "name": "Ibtessam",
+      "bio": "holds a degree in Biotechnology and a PhD in Biotechnology, with a specialization in food safety and nutritional sciences. With a strong scientific foundation and applied expertise, she has guided organizations in developing food safety-focused, regulation-compliant systems that prioritize safety and efficiency. Her unique blend of academic rigor and hands-on experience makes her a highly respected consultant and trainer, trusted by both regional and international institutions seeking effective training and compliance solutions. "
+    }
+  },
+  "hero": {
+    "title": "Turning Vision into Reality, Strategically",
+    "subtitle": "ConsulRain drives business growth through expert consulting and targeted training in management, finance, and operations.",
+    "cta": "Learning Journeys",
+    "alt": {
+      "person1": "A smiling man in a suit",
+      "person2": "A woman with glasses in a professional setting",
+      "person3": "A person in a hard hat at a construction site",
+      "person4": "A woman in a business meeting"
+    }
+  },
+  "feedback": {
+    "button": "Feedback",
+    "title": "Send feedback",
+    "idea": {
+      "title": "Ideas / Feature",
+      "description": "Share your ideas with us"
+    },
+    "issue": {
+      "title": "Issue/Bug",
+      "description": "Report a problem"
+    },
+    "form": {
+      "fullName": "Full name",
+      "email": "Email",
+      "title": "Title",
+      "details": "Share us more details",
+      "screenshot": "Screenshot",
+      "upload": "Upload (500KB)",
+      "submit": "Submit",
+      "submitting": "Submitting..."
+    },
+    "successTitle": "Feedback Sent",
+    "successMessage": "Thank you for your feedback!",
+    "errorTitle": "Submission Failed",
+    "errorMessage": "Could not send feedback. Please try again.",
+    "fileTooLargeTitle": "File Too Large",
+    "fileTooLargeText": "File size must be less than 500KB",
+    "screenshotPermission": {
+      "title": "Allow ConsulRain.ai to see this tab?",
+      "description": "The site will be able to see the contents of this tab",
+      "cancel": "Cancel",
+      "allow": "Allow"
+    },
+    "topbar": {
+      "social": {
+        "facebook": "Follow us on Facebook",
+        "snapchat": "Follow us on Snapchat",
+        "linkedin": "Follow us on LinkedIn",
+        "tiktok": "Follow us on TikTok",
+        "instagram": "Follow us on Instagram"
+      }
+    },
+    "files": {
+      "screenshot": "screenshot.png"
+    }
+  },
+  "ourServices": {
+    "title": "Our Services",
+    "service1": "Supply chain & Logistics",
+    "service2": "Sales",
+    "service3": "Marketing",
+    "service4": "Compliance",
+    "service5": "Finance & Accounting",
+    "service6": "Food Safety",
+    "service7": "Information Technology",
+    "service8": "Human Resources",
+    "service9": "Quality Control",
+    "service10": "Production",
+    "service11": "Softskills",
+    "service12": "Leadership",
+    "service13": "Administration"
+  },
+
+  "training": {
+    "heroSection": {
+      "title": "Empower Your Team Today to Lead Tomorrow",
+
+      "learningHours": "Learning Hours",
+      "professionalsTrained": "Professionals Trained",
+      "industriesServed": "Industries Served",
+      "ctaButton": "Start Now",
+      "firstNumber": "2M+",
+      "secondNumber": "60K+",
+      "thirdNumber": "30+"
+    },
+    "introSection": {
+      "title": "Training That",
+      "description": "At ConsulRain, we believe in the power of training to transform. We go beyond conventional workshops to deliver immersive learning experiences, thoughtfully aligned with your business priorities.",
+      "highlightedWord": "Transforms",
+      "text1": "We go beyond conventional workshops",
+      "text2": "Each training journey follows a meticulously crafted process"
+    },
+    "trainingProcess": {
+      "title": "Meticulously crafted process",
+      "highlightedWord": "Delivers",
+      "steps": {
+        "1": {
+          "title": "Pre-Training Diagnosis",
+          "description": "We start a comprehensive gap analysis to evaluate the current business performance, identifying skills and competences gaps.",
+          "note": "Fees could be applied"
+        },
+        "2": {
+          "title": "Customized Training Programs",
+          "description": "From leadership and soft skills to technical and industry-specific topics, we craft solutions tailored to each department’s needs. Our programs are led by experienced trainers and subject-matter experts who translate knowledge into measurable impact."
+        },
+
+        "3": {
+          "title": "Post-Training Evaluation",
+          "description": "We turn learning impact into numbers. Through tailored metrics and detailed reporting, we measure the impact of each training on performance and productivity, translating progress into trackable numbers.",
+          "note": "Fees could be applied"
+        }
+      }
+    },
+    "trainingBusinessLines": {
+      "title": "Training Business Lines"
+    }
+  },
+  "About": {
+    "title": "About us"
+  },
+  "feasibility": {
+    "title": "Feasibility Studies",
+    "intro": "We are dedicated to providing comprehensive feasibility studies that empower businesses, investors, and entrepreneurs to make well-informed decisions. Our studies comprehensively evaluate the viability of projects across diverse sectors, seamlessly integrating market intelligence, financial analysis, and technical assessments to ensure strategic clarity and effective risk management.\nWhether you are embarking on a new venture, expanding your operations, or exploring investment opportunities, our feasibility studies furnish the invaluable insights required to proceed with confidence and assurance.",
+    "showIntro": "Show More",
+    "hideIntro": "Show Less",
+    "services": {
+      "market": {
+        "title": "Market Feasibility",
+        "items": [
+          "Market demand analysis",
+          "Competitive landscape evaluation",
+          "Customer segmentation and behavior analysis",
+          "Pricing strategy recommendations"
+        ]
+      },
+      "technical": {
+        "title": "Technical Feasibility",
+        "items": [
+          "Site and location analysis",
+          "Technology and infrastructure requirements assessment",
+          "Operational workflow design evaluation",
+          "Resource availability and logistics assessment"
+        ]
+      },
+      "financial": {
+        "title": "Financial Feasibility",
+        "items": [
+          "Capital investment estimation",
+          "Revenue and cost projections",
+          "Break-even analysis",
+          "ROI and NPV calculations"
+        ]
+      },
+      "legal": {
+        "title": "Legal and Regulatory Feasibility",
+        "items": [
+          "Compliance with local and international regulations",
+          "Licensing and permit requirements assessment",
+          "Environmental impact assessments"
+        ]
+      },
+      "organizational": {
+        "title": "Organizational Feasibility",
+        "items": [
+          "Human resource planning",
+          "Management structure evaluation",
+          "Strategic alignment with business goals"
+        ]
+      },
+      "risk": {
+        "title": "Risk Assessment and Mitigation",
+        "items": [
+          "SWOT analysis",
+          "Risk identification and prioritization",
+          "Contingency planning"
+        ]
+      }
+    }
+  },
+  "consultation": {
+    "title": "Consultation",
+    "intro": "Our consultation is rooted in collaboration and strategic clarity. We partner closely with leadership teams to navigate complex business challenges, resolve operational challenges, and shape forward-thinking strategies that drive sustainable success.",
+    "showIntro": "Read More",
+    "hideIntro": "Close",
+    "scopeTitle": "Scope of Services",
+    "features": {
+      "0": {
+        "title": "Professional Experts",
+        "desc": "All projects led by highly experienced consultants and teams passionate about delivering high-quality solutions."
+      },
+      "1": {
+        "title": "24/7 Premium Support",
+        "desc": "On-site coordination and model-based supervision to ensure successful project execution."
+      }
+    },
+    "experience": "Years of Experience",
+    "experiencePoints": {
+      "0": "Cutting-Edge Expertise",
+      "1": "Holistic Solutions Approach",
+      "2": "Client-Centric Collaboration"
+    },
+    "contact": {
+      "title": "The best",
+      "subtitle": "you can take",
+      "connect": "Connect with us",
+      "addressTitle": "Address",
+      "address": {
+        "0": "West 11 Mall - 6th October Giza, Egypt",
+        "1": "Cite 500 Apartment - Bilda, Algeria"
+      },
+      "workingHours": "Sunday → Thursday 9am to 5pm"
+    },
+    "form": {
+      "nameLabel": "Hello, my name is:",
+      "namePlaceholder": "Name",
+      "emailLabel": "Here is my email:",
+      "emailPlaceholder": "Email",
+      "projectLabel": "Tell us about your project",
+      "projectOptions": {
+        "0": "Social media marketing",
+        "1": "Business strategy",
+        "2": "Operations improvement",
+        "3": "Other"
+      },
+      "referralLabel": "How did you hear about ConsulRain?",
+      "referralOptions": {
+        "0": "Google",
+        "1": "Facebook",
+        "2": "LinkedIn",
+        "3": "SnapChat",
+        "4": "Instagram",
+        "5": "TikTok",
+        "6": "Other"
+      },
+      "descLabel": "About project:",
+      "descPlaceholder": "Briefly describe your project or question...",
+      "sendBtn": "Send Request",
+      "submitting": "Submitting...",
+      "connect": "Connect with us",
+      "addressTitle": "Our Address",
+      "address": {
+        "0": "West 11 Mall - 6th October Giza, Egypt",
+        "1": "Cite 500 Apartment - Bilda, Algeria"
+      },
+      "workingHours": "Saturday - Thursday: 9am - 6pm"
+    },
+    "successTitle": "Request Sent!",
+    "successMessage": "Your consultation request has been sent successfully. We will get back to you shortly.",
+    "errorMessageTitle": "Submission Failed",
+    "errorMessageText": "There was an error sending your request. Please try again."
+  },
+  "ourServicesSection": {
+    "title": "Our Services",
+    "subtitle": "Empowering Your Team Training & Consultation",
+    "description": "Unlock your organization’s full potential with our expert-led training programs and strategic consultation services. We help you build skills, foster collaboration, and develop actionable strategies for sustainable growth and operational excellence.",
+    "cards": {
+      "training": {
+        "title": "Training",
+        "front": "We go beyond conventional workshops to deliver immersive learning experiences, thoughtfully aligned with your business priorities",
+        "backTitle": "meticulously crafted process",
+        "back": "Pre-Training Diagnosis, Customized Training Programs, Post-Training Evaluation."
+      },
+      "consultation": {
+        "title": "Consultation",
+        "front": "Our consultation is rooted in collaboration and strategic clarity",
+        "backTitle": "Strategic Consultation Process",
+        "back": "In-depth analysis, collaborative planning, and actionable recommendations to help your organization overcome obstacles and achieve long-term growth."
+      },
+      "feasibilityStudies": {
+        "title": "Feasibility Studies",
+        "front": "Comprehensive studies to help you make well-informed business decisions",
+        "backTitle": "Key Services Offered",
+        "back": {
+          "item1": "Market, Technical, Financial, Legal, Organizational Feasibility",
+          "item2": "Risk Assessment & Mitigation"
+        }
+      }
+    },
+    "learnMore": "LEARN MORE"
+  },
+  "visionMission": {
+    "vision": {
+      "title": "Our Vision",
+      "subtitle": "To build impactful and enduring partnerships through tailored training and consulting services, empowering decision-makers across sectors to enhance value, drive growth, and foster sustainable development. We strive to be the region's leading catalyst for innovation, merging deep industry expertise with forward-thinking strategies. Our goal is to create a future where businesses are not only successful but also resilient and adaptive to market changes, setting new benchmarks for excellence and integrity in every engagement."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "subtitle": "Our mission goes beyond just providing training or consultation. We aim to empower organizations and maximize efficiency by delivering integrated solutions that are both innovative and practical. We are committed to delivering measurable results by combining strategic insights with hands-on implementation, ensuring our clients achieve their most critical business objectives with clarity and confidence. Our approach is rooted in a deep understanding of our clients' unique challenges and a relentless drive to help them succeed."
+    },
+    "journey": {
+      "title": "Our Journey",
+      "subtitle": "Our journey as a distinguished regional consultancy and training firm began in Algeria, with our headquarters proudly established in Egypt. For over two decades, we have empowered organizations to find clarity amidst complexity, through thoughtful analysis, precise diagnosis, and bespoke solution design. We do not merely deliver services; we cultivate long-term partnerships, grounded in integrity, excellence, and a shared vision for lasting impact."
+    },
+    "learnMore": "LEARN MORE",
+    "sectionTitle": "Our Vision, Mission, and Journey"
+  },
+  "integratedSolutions": {
+    "subtitle": "INTEGRATED SOLUTIONS",
+    "title": "We Offer a Wide Variety of IT Services",
+    "description": "Our team of experts provides a wide range of IT services to help your business succeed. We are committed to delivering high-quality solutions that meet your needs.",
+    "cards": {
+      "workers": {
+        "title": "Skilled Workers",
+        "description": "Our team consists of highly skilled and experienced professionals."
+      },
+      "process": {
+        "title": "Best Process",
+        "description": "We follow the best industry practices to deliver outstanding results."
+      }
+    },
+    "experience": "Years Of Experience",
+    "features": {
+      "expertise": "Cutting-Edge Expertise",
+      "approach": "Holistic Solutions Approach",
+      "collaboration": "Client-Centric Collaboration"
+    },
+    "imageAlt": "A team of professionals collaborating in a modern office setting."
+  },
+  "copyright": {
+    "text": "ConsulRain. All Rights Reserved."
+  },
+  "scopeOfServices": {
+    "title": "SCOPE OF SERVICES",
+    "subtitle": "Ready to Empower",
+    "description": "With a deep understanding of today’s business dynamics we deliver targeted solutions across key areas:",
+    "services": {
+      "supplyChain": "Supply chain & Logistics",
+      "administration": "Administration",
+      "leadership": "Leadership",
+      "softskills": "Softskills",
+      "production": "Production",
+      "qualityControl": "Quality Control",
+      "humanResources": "Human Resources",
+      "sales": "Sales",
+      "marketing": "Marketing",
+      "compliance": "Compliance",
+      "financeAccounting": "Finance & Accounting",
+      "foodSafety": "Food Safety",
+      "informationTechnology": "Information Technology"
+    }
+  },
+  "consultingAndTraining": "Consulting & Training"
+}
