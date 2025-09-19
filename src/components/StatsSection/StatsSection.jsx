@@ -8,7 +8,7 @@ export default function StatsSection() {
     {
       icon: (
         <img
-          src="/public/images/learners.webp"
+          src="/images/learners.webp"
           alt={t("stats.satisfiedUsers")}
           className="w-16 h-16 object-contain"
           loading="lazy"
@@ -20,7 +20,7 @@ export default function StatsSection() {
     {
       icon: (
         <img
-          src="/public/images/clock.webp"
+          src="/images/clock.webp"
           alt={t("stats.learningHours")}
           className="w-16 h-16 object-contain"
           loading="lazy"
@@ -32,7 +32,7 @@ export default function StatsSection() {
     {
       icon: (
         <img
-          src="/public/images/world-pin.webp"
+          src="/images/world-pin.webp"
           alt={t("stats.employmentRate")}
           className="w-16 h-16 object-contain"
           loading="lazy"
@@ -44,7 +44,7 @@ export default function StatsSection() {
     {
       icon: (
         <img
-          src="/public/images/world.png"
+          src="/images/world.webp"
           alt={t("stats.impactedCountries")}
           className="w-16 h-16 object-contain"
           loading="lazy"
