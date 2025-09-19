@@ -217,10 +217,8 @@ html[lang="ar"] .footer-li:hover {
 
 @theme {
   /* --font-display: "Glory", sans-serif; */
-
   --font-display: "Montserrat", sans-serif;
-
-  /* the system colors */
+ /* the system colors */
 
   --color-primary-50: #e8eef1;
   --color-primary-100: #cfdde4;
