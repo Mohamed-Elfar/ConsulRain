@@ -22,6 +22,7 @@
 //   );
 // }
 import React, { Suspense, lazy } from "react";
+import { Helmet } from "react-helmet-async";
 const HeroSection = lazy(() =>
   import("../../components/homeComponents/HeroSection")
 );
@@ -47,17 +48,26 @@ const OurPartners = lazy(() =>
 
 export default function HomePage() {
   return (
-    <Suspense fallback={<div>Loading...</div>}>
-      <div>
-        <HeroSection />
-        <IntegratedSolutions />
-        <VisionMission />
-        <StatsSection />
-        <EmpowerSection />
-        <Services />
-        <Founders />
-        <OurPartners />
-      </div>
-    </Suspense>
+    <>
+      <Helmet>
+        <title>ConsulRain | Home</title>
+        <meta
+          name="description"
+          content="ConsulRain drives business growth through expert consulting and targeted training in management, finance, and operations."
+        />
+      </Helmet>
+      <Suspense fallback={<div>Loading...</div>}>
+        <div>
+          <HeroSection />
+          <IntegratedSolutions />
+          <VisionMission />
+          <StatsSection />
+          <EmpowerSection />
+          <Services />
+          <Founders />
+          <OurPartners />
+        </div>
+      </Suspense>
+    </>
   );
 }
