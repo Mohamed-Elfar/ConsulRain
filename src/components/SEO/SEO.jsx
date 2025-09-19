@@ -18,6 +18,15 @@ const SEO = ({
       <meta name="keywords" content={keywords} />
       <meta name="author" content="ConsulRain" />
 
+      {/* Font Preload for Priority Loading */}
+      <link
+        rel="preload"
+        href="/assets/fonts/alfont_com_خط-الإيغور.ttf"
+        as="font"
+        type="font/ttf"
+        crossOrigin="anonymous"
+      />
+
       {/* Favicon */}
       <link rel="icon" type="image/png" href={logoImg} />
       <link rel="shortcut icon" type="image/png" href={logoImg} />
