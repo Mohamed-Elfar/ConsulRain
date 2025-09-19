@@ -1,6 +1,6 @@
 import MySwal from "../../swalConfig";
 import ScopeOfServices from "../../components/ScopeOfServices/ScopeOfServices";
-import ConsultationHeroImg from "../../../public/images/Consultation.jpg";
+import ConsultationHeroImg from "../../../public/images/Consultation.webp";
 import { useTranslation } from "react-i18next";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {

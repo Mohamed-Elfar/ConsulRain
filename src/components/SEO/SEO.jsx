@@ -1,6 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet-async";
-import logoImg from "../../assets/logo.png";
+import logoImg from "../../assets/logo.webp";
 
 const SEO = ({
   title = "ConsulRain - Professional Business Consulting Services",

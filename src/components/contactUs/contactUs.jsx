@@ -8,7 +8,7 @@ import {
   EMAILJS_TEMPLATE_ID,
   EMAILJS_USER_ID,
 } from "../../emailjsConfig";
-import headerBg from "../../assets/contact-header-bg.jpg";
+import headerBg from "../../assets/contact-header-bg.webp";
 import "./contact.css";
 
 export default function ContactUs() {
