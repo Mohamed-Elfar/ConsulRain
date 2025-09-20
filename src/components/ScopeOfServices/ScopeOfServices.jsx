@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { useTranslation } from "react-i18next";
-import checkmark from "../../../public/images/1.svg";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCircleCheck } from "@fortawesome/free-solid-svg-icons";
 import image from "../../../public/images/At the office-cuate.webp";
 import ServiceModal from "../ServiceModal/ServiceModal"; // Import the modal
 import "./ScopeOfServices.css"; // Import the new CSS
@@ -81,9 +82,9 @@ const ScopeOfServices = () => {
                     e.key === "Enter" && handleServiceClick(key)
                   }
                 >
-                  <img
-                    src={checkmark}
-                    alt="checkmark"
+                  <FontAwesomeIcon
+                    icon={faCircleCheck}
+                    style={{ color: "#284B64" }}
                     className="w-5 h-5 mr-3 mt-1"
                   />
                   <span className="text-gray-700">
