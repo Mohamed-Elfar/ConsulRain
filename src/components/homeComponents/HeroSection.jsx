@@ -7,9 +7,6 @@ const HeroSection = () => {
   return (
     <section
       className="w-full bg-blue-25 bg-cover bg-primary-50 py-4 lg:py-5 flex flex-col lg:flex-row gap-6 md:gap-12 lg:gap-36 items-center lg:px-24 xl:px-16 2xl:px-48 mx-0"
-      style={{
-        backgroundImage: "url('/assets/default/img/home/hero-background.jpg')",
-      }}
       role="banner"
       aria-labelledby="hero-title"
     >

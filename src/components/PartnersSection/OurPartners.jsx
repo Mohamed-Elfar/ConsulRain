@@ -24,7 +24,7 @@ const OurPartners = () => {
     <>
       <div
         className="w-full flex flex-col items-center justify-center px-4 md:px-12 lg:px-24 py-8 bg-cover bg-center relative mb-20"
-        style={{ backgroundImage: "url('/images/map.png')" }}
+        style={{ backgroundImage: "url('/images/map.webp')" }}
         role="region"
         aria-labelledby="partners-heading"
       >
